@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fc</groupId>
-    <artifactId>zn_wifi_crack</artifactId>
+    <artifactId>wifi_crack</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>zn_wifi_crack</name>
+    <name>wifi_crack</name>
     <description>zn_store project for Spring Boot</description>
 
 
